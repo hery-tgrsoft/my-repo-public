@@ -1,11 +1,8 @@
-
 <!DOCTYPE html>
 <html>
-  <head>
-  </head>
- 
-  <body>
-    Hello World
-  </body>
- 
+ <head>
+</head>
+<body>
+Hello World
+</body>
 </html>
